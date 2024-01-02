@@ -1,0 +1,21 @@
+body{
+  background-color: #ccc;
+}
+
+.stars{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 150px;
+  flex-direction: column;
+}
+.s2{
+  color: red;
+  border: none;
+  background-color: #ccc;
+}
+.s1{
+  color: #454141;
+  border:none;
+  background-color:#ccc;
+}
